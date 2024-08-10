@@ -9,7 +9,7 @@ talebook/talebook
 whyour/qinglong
 linuxserver/prowlarr
 xhongc/music_tag_web
-advplyr/audiobookshelf
+advplyr/audiobookshelf:2.11.0
 xhofe/alist
 6053537/portainer-ce
 deluan/navidrome
