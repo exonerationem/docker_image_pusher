@@ -26,3 +26,6 @@ moelin/1panel
 diygod/rsshub
 liwangsheng/koodo-reader
 eallion/douban-api-rs
+joplin/server
+mariadb
+phpmyadmin
