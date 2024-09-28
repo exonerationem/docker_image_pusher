@@ -18,6 +18,7 @@ jlesage/firefox
 gdy666/lucky
 lkw199711/smanga:beta
 0nlylty/dockercopilot:ZSPACE
+0nlylty/dockercopilot:UGREEN
 szzhoubanxian/reseed-puppy
 hisatri/lyricapi
 a76yyyy/qiandao
@@ -30,3 +31,14 @@ eallion/douban-api-rs
 joplin/server
 mariadb
 phpmyadmin
+linuxserver/jackett
+taksss/php-epg
+linuxserver/lidarr
+svenstaro/miniserve
+nodered/node-red
+jason5ng32/myip
+suwmlee/ikaros:2.4.2
+jgraph/drawio
+vaultwarden/server
+flaresolverr/flaresolverr
+mysll/ps-offline
