@@ -4,6 +4,7 @@ linuxserver/transmission
 linuxserver/transmission:4.0.5
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
+linuxserver/qbittorrent:4.2.5
 emby/embyserver:beta
 talebook/talebook
 whyour/qinglong
