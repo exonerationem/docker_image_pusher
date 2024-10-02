@@ -42,3 +42,6 @@ jgraph/drawio
 vaultwarden/server
 flaresolverr/flaresolverr
 mysll/ps-offline
+metacubex/mihomo
+mrxianyu/metacubexd-ui
+surveyking/surveyking
