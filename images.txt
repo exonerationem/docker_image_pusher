@@ -46,3 +46,4 @@ mysll/ps-offline
 metacubex/mihomo
 mrxianyu/metacubexd-ui
 surveyking/surveyking
+rehiy/dailyhot
