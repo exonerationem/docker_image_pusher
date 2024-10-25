@@ -48,3 +48,4 @@ mrxianyu/metacubexd-ui
 surveyking/surveyking
 rehiy/dailyhot
 jxxghp/moviepilot-v2
+orekiiiiiiiiiiiii/auto-lady
