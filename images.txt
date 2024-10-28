@@ -38,7 +38,7 @@ linuxserver/lidarr
 svenstaro/miniserve
 nodered/node-red
 jason5ng32/myip
-suwmlee/ikaros:2.4.2
+suwmlee/ikaros
 jgraph/drawio
 vaultwarden/server
 flaresolverr/flaresolverr
