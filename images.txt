@@ -11,7 +11,6 @@ whyour/qinglong
 linuxserver/prowlarr
 xhongc/music_tag_web
 advplyr/audiobookshelf
-advplyr/audiobookshelf:2.11.0
 xhofe/alist
 6053537/portainer-ce
 deluan/navidrome
@@ -38,7 +37,7 @@ linuxserver/lidarr
 svenstaro/miniserve
 nodered/node-red
 jason5ng32/myip
-suwmlee/ikaros
+samwaf/samwaf
 jgraph/drawio
 vaultwarden/server
 flaresolverr/flaresolverr
