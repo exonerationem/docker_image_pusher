@@ -51,3 +51,4 @@ orekiiiiiiiiiiiii/auto-lady
 ddsderek/easyimage
 aceberg/watchyourports
 ydlhero/chatgpt-web-midjourney-proxy
+vinlic/kimi-free-api
