@@ -4,6 +4,7 @@ linuxserver/transmission
 linuxserver/transmission:4.0.1
 linuxserver/transmission:4.0.2
 linuxserver/transmission:4.0.3
+linuxserver/transmission:4.0.4
 linuxserver/transmission:4.0.5
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
