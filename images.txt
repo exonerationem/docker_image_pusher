@@ -54,6 +54,7 @@ jxxghp/moviepilot-v2
 orekiiiiiiiiiiiii/auto-lady
 ddsderek/easyimage
 aceberg/watchyourports
+youshandefeiyang/allinone
 ydlhero/chatgpt-web-midjourney-proxy
 vinlic/kimi-free-api
 ionewu/owjdxb
