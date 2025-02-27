@@ -59,3 +59,4 @@ ydlhero/chatgpt-web-midjourney-proxy
 vinlic/kimi-free-api
 ionewu/owjdxb
 simpletracker/qbittorrent-clientblocker
+youshandefeiyang/allinone
