@@ -12,7 +12,6 @@ linuxserver/qbittorrent:4.6.7
 emby/embyserver:beta
 talebook/talebook
 whyour/qinglong
-linuxserver/prowlarr
 xhongc/music_tag_web
 advplyr/audiobookshelf
 xhofe/alist
@@ -32,7 +31,6 @@ moelin/1panel
 diygod/rsshub
 liwangsheng/koodo-reader
 eallion/douban-api-rs
-joplin/server
 mariadb
 phpmyadmin
 linuxserver/jackett
@@ -48,7 +46,6 @@ flaresolverr/flaresolverr
 mysll/ps-offline
 metacubex/mihomo
 mrxianyu/metacubexd-ui
-surveyking/surveyking
 rehiy/dailyhot
 jxxghp/moviepilot-v2
 orekiiiiiiiiiiiii/auto-lady
@@ -58,5 +55,4 @@ youshandefeiyang/allinone
 ydlhero/chatgpt-web-midjourney-proxy
 vinlic/kimi-free-api
 ionewu/owjdxb
-simpletracker/qbittorrent-clientblocker
 youshandefeiyang/allinone
