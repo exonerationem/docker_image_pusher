@@ -30,7 +30,6 @@ easychen/cookiecloud
 moelin/1panel
 diygod/rsshub
 liwangsheng/koodo-reader
-eallion/douban-api-rs
 mariadb
 phpmyadmin
 linuxserver/jackett
@@ -51,9 +50,5 @@ jxxghp/moviepilot-v2
 orekiiiiiiiiiiiii/auto-lady
 ddsderek/easyimage
 aceberg/watchyourports
-youshandefeiyang/allinone
-ydlhero/chatgpt-web-midjourney-proxy
-vinlic/kimi-free-api
-youshandefeiyang/allinone
+youshandefeiyang/allinone:latest
 ionewu/owjdxb
-
