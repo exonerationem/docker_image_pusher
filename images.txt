@@ -47,7 +47,6 @@ metacubex/mihomo
 mrxianyu/metacubexd-ui
 rehiy/dailyhot
 jxxghp/moviepilot-v2
-orekiiiiiiiiiiiii/auto-lady
 ddsderek/easyimage
 aceberg/watchyourports
 youshandefeiyang/allinone:latest
