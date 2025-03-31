@@ -1,14 +1,8 @@
 jxxghp/moviepilot
 xiaoyaliu/alist
 linuxserver/transmission
-linuxserver/transmission:4.0.1
-linuxserver/transmission:4.0.2
-linuxserver/transmission:4.0.3
-linuxserver/transmission:4.0.4
-linuxserver/transmission:4.0.5
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
-linuxserver/qbittorrent:4.6.7
 emby/embyserver:beta
 talebook/talebook
 whyour/qinglong
