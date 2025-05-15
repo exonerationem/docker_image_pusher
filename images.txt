@@ -51,3 +51,4 @@ ionewu/owjdxb
 envyafish/byte-muse
 ghcr.io/sarperavci/cloudflarebypassforscraping
 redis:alpine
+advplyr/audiobookshelf:2.21.0
