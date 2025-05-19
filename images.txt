@@ -4,7 +4,7 @@ linuxserver/transmission
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
 emby/embyserver:beta
-emby/embyserver:latest
+emby/embyserver
 talebook/talebook
 whyour/qinglong
 xhongc/music_tag_web
@@ -17,8 +17,6 @@ gdy666/lucky
 lkw199711/smanga:beta
 lkw199711/smanga-nodejs
 0nlylty/dockercopilot
-0nlylty/dockercopilot:ZSPACE
-0nlylty/dockercopilot:UGREEN
 szzhoubanxian/reseed-puppy
 hisatri/lyricapi
 a76yyyy/qiandao
@@ -52,4 +50,3 @@ ionewu/owjdxb
 envyafish/byte-muse
 ghcr.io/sarperavci/cloudflarebypassforscraping
 redis:alpine
-advplyr/audiobookshelf:2.21.0
