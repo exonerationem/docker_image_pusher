@@ -3,6 +3,7 @@ xiaoyaliu/alist
 linuxserver/transmission
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
+emby/embyserve
 emby/embyserver:beta
 talebook/talebook
 whyour/qinglong
@@ -46,7 +47,7 @@ rehiy/dailyhot
 jxxghp/moviepilot-v2
 ddsderek/easyimage
 aceberg/watchyourports
-youshandefeiyang/allinone:latest
+youshandefeiyang/allinone
 ionewu/owjdxb
 envyafish/byte-muse
 ghcr.io/sarperavci/cloudflarebypassforscraping
