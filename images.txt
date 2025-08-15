@@ -14,7 +14,6 @@ xhofe/alist:v3.40.0
 deluan/navidrome
 jlesage/firefox
 gdy666/lucky
-lkw199711/smanga:beta
 lkw199711/smanga-nodejs
 0nlylty/dockercopilot
 szzhoubanxian/reseed-puppy
