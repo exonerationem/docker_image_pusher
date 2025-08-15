@@ -9,7 +9,6 @@ talebook/talebook
 whyour/qinglong
 xhongc/music_tag_web
 advplyr/audiobookshelf
-xhofe/alist
 xhofe/alist:v3.40.0
 6053537/portainer-ce
 deluan/navidrome
@@ -50,4 +49,3 @@ youshandefeiyang/allinone
 ionewu/owjdxb
 envyafish/byte-muse
 ghcr.io/sarperavci/cloudflarebypassforscraping
-redis:alpine
