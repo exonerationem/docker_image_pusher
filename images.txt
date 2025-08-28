@@ -9,7 +9,6 @@ talebook/talebook
 whyour/qinglong
 xhongc/music_tag_web
 advplyr/audiobookshelf
-xhofe/alist:v3.40.0
 6053537/portainer-ce
 deluan/navidrome
 jlesage/firefox
