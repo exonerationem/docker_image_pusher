@@ -47,3 +47,4 @@ youshandefeiyang/allinone
 ionewu/owjdxb
 envyafish/byte-muse
 ghcr.io/sarperavci/cloudflarebypassforscraping
+linkease/kspeeder
