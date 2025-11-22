@@ -48,3 +48,5 @@ ionewu/owjdxb
 envyafish/byte-muse
 ghcr.io/sarperavci/cloudflarebypassforscraping
 linkease/kspeeder
+postgres:17.6
+redis
