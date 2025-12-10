@@ -46,10 +46,9 @@ aceberg/watchyourports
 youshandefeiyang/allinone
 ionewu/owjdxb
 envyafish/byte-muse
-envyafish/byte-muse:1.20.17
 ghcr.io/sarperavci/cloudflarebypassforscraping
 linkease/kspeeder
-postgres:17.6
+postgres
 redis
 dr34m/tao-sync
 openlistteam/openlist
